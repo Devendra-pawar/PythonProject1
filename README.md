@@ -1,3 +1,3 @@
-# PythonPro1
+# PythonProject1
 
 Word Cloud Python project.
